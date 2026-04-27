@@ -1,5 +1,3 @@
-# Awesome Unsupervised Foreground Recognition
-
 ## Survey
 
 ## Unsupervised Foreground Segmentation
