@@ -1,2 +1,19 @@
-# awesome-unsupervised-foreground-recognition
-A curated list of papers, datasets, and resources for unsupervised foreground recognition
+# Awesome Unsupervised Foreground Recognition
+
+## Survey
+
+## Unsupervised Foreground Segmentation
+
+## Unsupervised Object Discovery
+
+## Unsupervised Salient Object Detection
+
+## Co-Salient Object Detection
+
+## Foundation Model Based Methods
+
+## Datasets
+
+## Metrics
+
+## Update Log
