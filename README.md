@@ -54,6 +54,7 @@
 - Unified Unsupervised Salient Object Detection via Knowledge Transfer. IJCAI 2024. [paper](https://www.ijcai.org/proceedings/2024/0179) [code](https://github.com/I2-Multimedia-Lab/A2S-v3)
 - Unsupervised Salient Instance Detection. CVPR 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tian_Unsupervised_Salient_Instance_Detection_CVPR_2024_paper.html)
 - Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection. arXiv 2024. [paper](https://arxiv.org/abs/2412.18904) [code](https://github.com/liuyi1989/Seamless-Detection)
+- Fighting Background Misjudgment for Unsupervised Salient Object Detection. Expert Systems with Applications 2026. [paper](https://www.sciencedirect.com/science/article/pii/S095741742601417X)
 
 ## Co-Salient Object Detection
 
