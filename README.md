@@ -45,9 +45,13 @@
 - A Causal Debiasing Framework for Unsupervised Salient Object Detection. AAAI 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20052)
 - Texture-Guided Saliency Distilling for Unsupervised Salient Object Detection. CVPR 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Texture-Guided_Saliency_Distilling_for_Unsupervised_Salient_Object_Detection_CVPR_2023_paper.html) [code](https://github.com/moothes/A2S-v2)
 - Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context. ACM MM 2023. [paper](https://arxiv.org/abs/2310.09533)
+- Deep Unsupervised Part-Whole Relational Visual Saliency. Neurocomputing 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223010391)
 - 3SD: Self-Supervised Saliency Detection With No Labels. WACV 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/html/Yasarla_3SD_Self-Supervised_Saliency_Detection_With_No_Labels_WACV_2024_paper.html) [code](https://github.com/rajeevyasarla/3SD)
 - Unified Unsupervised Salient Object Detection via Knowledge Transfer. IJCAI 2024. [paper](https://www.ijcai.org/proceedings/2024/0179) [code](https://github.com/I2-Multimedia-Lab/A2S-v3)
+- Unsupervised Salient Object Detection on Light Field With High-Quality Synthetic Labels. TCSVT 2025. [paper](https://ieeexplore.ieee.org/document/10777973)
+- Unsupervised Salient Object Detection with Pseudo-Labels Refinement. CASA 2025. [paper](https://doi.org/10.1007/978-981-95-0100-7_19)
 - A Contrastive-Learning Framework for Unsupervised Salient Object Detection. TIP 2025. [paper](https://pubmed.ncbi.nlm.nih.gov/40227896/) [code](https://github.com/guanhuankang/TIP2025CSNet)
+- Unsupervised Saliency Detection via Multi-Focus Image Reconstruction and Prior-Guided Mask Based on Light Field Imaging. Digital Signal Processing 2026. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200425005639)
 - Fighting Background Misjudgment for Unsupervised Salient Object Detection. Expert Systems with Applications 2026. [paper](https://www.sciencedirect.com/science/article/pii/S095741742601417X)
 - Unsupervised Salient Object Detection via Contrastive Learning and UnSAM. PRCV 2026. [paper](https://doi.org/10.1007/978-981-95-5758-5_36)
 
