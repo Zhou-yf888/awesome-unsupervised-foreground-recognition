@@ -6,23 +6,6 @@
 - Learning to Detect Salient Objects with Image-level Supervision: A Comprehensive Survey. arXiv 2020. [paper](https://arxiv.org/abs/2009.10952)
 - Unsupervised Object-Centric Learning: A Survey. arXiv 2023. [paper](https://arxiv.org/abs/2303.06467)
 
-## Unsupervised Foreground Segmentation
-
-- MONet: Unsupervised Scene Decomposition and Representation. arXiv 2019. [paper](https://arxiv.org/abs/1901.11390) [code](https://github.com/baudm/MONet-pytorch)
-- Multi-Object Representation Learning with Iterative Variational Inference. ICML 2019. [paper](https://proceedings.mlr.press/v97/greff19a.html) [code](https://github.com/deepmind/multi_object_datasets)
-- GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations. ICLR 2020. [paper](https://openreview.net/forum?id=BkxfaTVFwH) [code](https://github.com/applied-ai-lab/genesis)
-- Object-Centric Learning with Slot Attention. NeurIPS 2020. [paper](https://research.google/pubs/object-centric-learning-with-slot-attention/) [code](https://github.com/google-research/google-research/tree/master/slot_attention)
-- Unsupervised Foreground-Background Segmentation with Equivariant Layered GANs. ICLR 2021. [paper](https://openreview.net/forum?id=LsHnKjww6t) [code](https://github.com/ykli99/ELGAN)
-- Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals. ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Van_Gansbeke_Unsupervised_Semantic_Segmentation_by_Contrasting_Object_Mask_Proposals_ICCV_2021_paper.html) [code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation)
-- PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cho_PiCIE_Unsupervised_Semantic_Segmentation_Using_Invariance_and_Equivariance_in_Clustering_CVPR_2021_paper.html) [code](https://github.com/janghyuncho/PiCIE)
-- Unsupervised Semantic Segmentation by Distilling Feature Correspondences. ICLR 2022. [paper](https://openreview.net/forum?id=SaKO6z6Hl0c) [code](https://github.com/mhamilton723/STEGO)
-- MaskDistill: Boosting Unsupervised Semantic Segmentation by Mining Mask Priors. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Van_Gansbeke_MaskDistill_Boosting_Unsupervised_Semantic_Segmentation_by_Mining_Mask_Priors_CVPR_2022_paper.html) [code](https://github.com/wvangansbeke/MaskDistill)
-- Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Melas-Kyriazi_Deep_Spectral_Methods_A_Surprisingly_Strong_Baseline_for_Unsupervised_Semantic_CVPR_2022_paper.html) [code](https://github.com/lukemelas/deep-spectral-segmentation)
-- Unsupervised Image Segmentation by Mutual Information Maximization and Adversarial Regularization. TPAMI 2022. [paper](https://ieeexplore.ieee.org/document/9446885) [code](https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip)
-- Segment Anything without Supervision. arXiv 2023. [paper](https://arxiv.org/abs/2305.06526) [code](https://github.com/xudongwilly/UnSAM)
-- Bridging the Gap to Real-World Object-Centric Learning. ICLR 2023. [paper](https://openreview.net/forum?id=b9tUk-f_aG) [code](https://dinosaur-paper.github.io/)
-- Self-supervised Object-Centric Learning for Videos. NeurIPS 2023. [paper](https://openreview.net/forum?id=lvj8HwCR5E) [code](https://github.com/SysCV/solv)
-
 ## Unsupervised Salient Object Detection
 
 - Frequency-Tuned Salient Region Detection. CVPR 2009. [paper](https://ieeexplore.ieee.org/document/5206596)
