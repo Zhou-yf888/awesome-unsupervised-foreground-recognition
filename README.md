@@ -25,9 +25,21 @@
 
 ## Unsupervised Salient Object Detection
 
+- Frequency-Tuned Salient Region Detection. CVPR 2009. [paper](https://ieeexplore.ieee.org/document/5206596)
+- Global Contrast Based Salient Region Detection. CVPR 2011. [paper](https://doi.org/10.1109/CVPR.2011.5995344)
+- Saliency Filters: Contrast Based Filtering for Salient Region Detection. CVPR 2012. [paper](https://studios.disneyresearch.com/2012/06/18/saliency-filters-contrast-based-filtering-for-salient-region-detection/)
+- Geodesic Saliency Using Background Priors. ECCV 2012. [paper](https://link.springer.com/chapter/10.1007/978-3-642-33712-3_3)
+- Saliency Detection via Graph-Based Manifold Ranking. CVPR 2013. [paper](https://openaccess.thecvf.com/content_cvpr_2013/html/Yang_Saliency_Detection_via_2013_CVPR_paper.html) [code](https://faculty.ucmerced.edu/mhyang/project/cvpr13_saliency/cvprsaliency.htm)
+- Contextual Hypergraph Modeling for Salient Object Detection. ICCV 2013. [paper](https://openaccess.thecvf.com/content_iccv_2013/html/Li_Contextual_Hypergraph_Modeling_2013_ICCV_paper.html)
+- Salient Object Detection: A Discriminative Regional Feature Integration Approach. CVPR 2013. [paper](https://openaccess.thecvf.com/content_cvpr_2013/html/Jiang_Salient_Object_Detection_2013_CVPR_paper.html)
+- Saliency Optimization from Robust Background Detection. CVPR 2014. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Zhu_Saliency_Optimization_from_2014_CVPR_paper.html)
+- Minimum Barrier Salient Object Detection at 80 FPS. ICCV 2015. [paper](https://openaccess.thecvf.com/content_iccv_2015/html/Zhang_Minimum_Barrier_Salient_ICCV_2015_paper.html) [code](https://github.com/jimmie33/MBS)
+- Real-Time Salient Object Detection with a Minimum Spanning Tree. CVPR 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Tu_Real-Time_Salient_Object_CVPR_2016_paper.html)
+- Supervision by Fusion: Towards Unsupervised Learning of Deep Salient Object Detector. ICCV 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/html/Zhang_Supervision_by_Fusion_ICCV_2017_paper.html) [code](https://github.com/zhangyuygss/SVFSal)
+- Unsupervised Salient Object Detection via Inferring From Imperfect Saliency Models. TMM 2018. [paper](https://ieeexplore.ieee.org/document/8070311)
+- Deep Unsupervised Saliency Detection: A Multiple Noisy Labeling Perspective. CVPR 2018. [paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Deep_Unsupervised_Saliency_CVPR_2018_paper.html)
 - DeepUSPS: Deep Robust Unsupervised Saliency Prediction via Self-Supervision. NeurIPS 2019. [paper](https://papers.nips.cc/paper/8314-deepusps-deep-robust-unsupervised-saliency-prediction-via-self-supervision) [code](https://github.com/donnydonnyullrich/DeepUSPS)
-- Activation to Saliency: Forming High-Quality Labels for Unsupervised Salient Object Detection. TIP 2021. [paper](https://ieeexplore.ieee.org/document/9633188) [code](https://github.com/moothes/A2S-USOD)
-- Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection. ICLR 2022. [paper](https://openreview.net/forum?id=BZnnMbt0pW) [code](https://github.com/jiwei0921/DSU)
+- Activation to Saliency: Forming High-Quality Labels for Unsupervised Salient Object Detection. TCSVT 2022. [paper](https://ieeexplore.ieee.org/document/9875351) [code](https://github.com/moothes/A2S-USOD)
 - Multi-Source Uncertainty Mining for Deep Unsupervised Saliency Detection. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Multi-Source_Uncertainty_Mining_for_Deep_Unsupervised_Saliency_Detection_CVPR_2022_paper.html)
 - Unsupervised Salient Object Detection with Spectral Cluster Voting. CVPRW 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Shin_Unsupervised_Salient_Object_Detection_With_Spectral_Cluster_Voting_CVPRW_2022_paper.html) [code](https://github.com/NoelShin/selfmask)
 - A Causal Debiasing Framework for Unsupervised Salient Object Detection. AAAI 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20052)
@@ -35,9 +47,9 @@
 - Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context. ACM MM 2023. [paper](https://arxiv.org/abs/2310.09533)
 - 3SD: Self-Supervised Saliency Detection With No Labels. WACV 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/html/Yasarla_3SD_Self-Supervised_Saliency_Detection_With_No_Labels_WACV_2024_paper.html) [code](https://github.com/rajeevyasarla/3SD)
 - Unified Unsupervised Salient Object Detection via Knowledge Transfer. IJCAI 2024. [paper](https://www.ijcai.org/proceedings/2024/0179) [code](https://github.com/I2-Multimedia-Lab/A2S-v3)
-- Unsupervised Salient Instance Detection. CVPR 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Tian_Unsupervised_Salient_Instance_Detection_CVPR_2024_paper.html)
-- Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection. arXiv 2024. [paper](https://arxiv.org/abs/2412.18904) [code](https://github.com/liuyi1989/Seamless-Detection)
+- A Contrastive-Learning Framework for Unsupervised Salient Object Detection. TIP 2025. [paper](https://pubmed.ncbi.nlm.nih.gov/40227896/) [code](https://github.com/guanhuankang/TIP2025CSNet)
 - Fighting Background Misjudgment for Unsupervised Salient Object Detection. Expert Systems with Applications 2026. [paper](https://www.sciencedirect.com/science/article/pii/S095741742601417X)
+- Unsupervised Salient Object Detection via Contrastive Learning and UnSAM. PRCV 2026. [paper](https://doi.org/10.1007/978-981-95-5758-5_36)
 
 ## Foundation Model Based Methods
 
