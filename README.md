@@ -2,9 +2,7 @@
 
 - Salient Object Detection: A Survey. CVM 2019. [paper](https://link.springer.com/article/10.1007/s41095-019-0149-9)
 - A Survey of Deep Learning Methods for Salient Object Detection. Pattern Recognition 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031930409X)
-- RGB-D Salient Object Detection: A Survey. CVM 2020. [paper](https://link.springer.com/article/10.1007/s41095-020-0199-0)
-- Learning to Detect Salient Objects with Image-level Supervision: A Comprehensive Survey. arXiv 2020. [paper](https://arxiv.org/abs/2009.10952)
-- Unsupervised Object-Centric Learning: A Survey. arXiv 2023. [paper](https://arxiv.org/abs/2303.06467)
+- Salient Object Detection Techniques in Computer Vision: A Survey. Entropy 2020. [paper](https://www.mdpi.com/1099-4300/22/10/1174)
 
 ## Unsupervised Salient Object Detection
 
