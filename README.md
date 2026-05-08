@@ -56,8 +56,6 @@
 - Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection. arXiv 2024. [paper](https://arxiv.org/abs/2412.18904) [code](https://github.com/liuyi1989/Seamless-Detection)
 - Fighting Background Misjudgment for Unsupervised Salient Object Detection. Expert Systems with Applications 2026. [paper](https://www.sciencedirect.com/science/article/pii/S095741742601417X)
 
-## Co-Salient Object Detection
-
 ## Foundation Model Based Methods
 
 - Emerging Properties in Self-Supervised Vision Transformers. ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html) [code](https://github.com/facebookresearch/dino)
