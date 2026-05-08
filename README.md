@@ -23,23 +23,6 @@
 - Bridging the Gap to Real-World Object-Centric Learning. ICLR 2023. [paper](https://openreview.net/forum?id=b9tUk-f_aG) [code](https://dinosaur-paper.github.io/)
 - Self-supervised Object-Centric Learning for Videos. NeurIPS 2023. [paper](https://openreview.net/forum?id=lvj8HwCR5E) [code](https://github.com/SysCV/solv)
 
-## Unsupervised Object Discovery
-
-- Deep Descriptor Transforming for Image Co-Localization. IJCAI 2017. [paper](https://www.ijcai.org/proceedings/2017/0095.pdf) [code](https://github.com/apapa2018/DDT_plus_Keras)
-- Unsupervised Object Discovery and Localization in the Wild. CVPR 2015. [paper](https://www.di.ens.fr/willow/research/objectdiscovery/)
-- Localizing Objects with Self-Supervised Transformers and no Labels. BMVC 2021. [paper](https://arxiv.org/abs/2109.14279) [code](https://github.com/valeoai/LOST)
-- Self-Supervised Transformers for Unsupervised Object Discovery Using Normalized Cut. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Self-Supervised_Transformers_for_Unsupervised_Object_Discovery_Using_Normalized_Cut_CVPR_2022_paper.html) [code](https://github.com/YangtaoWANG95/TokenCut)
-- Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Melas-Kyriazi_Deep_Spectral_Methods_A_Surprisingly_Strong_Baseline_for_Unsupervised_Semantic_CVPR_2022_paper.html) [code](https://github.com/lukemelas/deep-spectral-segmentation)
-- FreeSOLO: Learning to Segment Objects without Annotations. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_FreeSOLO_Learning_To_Segment_Objects_Without_Annotations_CVPR_2022_paper.html) [code](https://github.com/NVlabs/FreeSOLO)
-- Cut and Learn for Unsupervised Object Detection and Instance Segmentation. CVPR 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Cut_and_Learn_for_Unsupervised_Object_Detection_and_Instance_Segmentation_CVPR_2023_paper.html) [code](https://github.com/facebookresearch/CutLER)
-- MOST: Multiple Object Localization with Self-Supervised Transformers for Object Discovery. ICCV 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Rambhatla_MOST_Multiple_Object_Localization_with_Self-Supervised_Transformers_for_Object_Discovery_ICCV_2023_paper.html) [code](https://github.com/rssaketh/MOST)
-- Unsupervised Object Localization: Observing the Background To Discover Objects. CVPR 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Simeoni_Unsupervised_Object_Localization_Observing_the_Background_To_Discover_Objects_CVPR_2023_paper.html) [code](https://github.com/valeoai/FOUND)
-- Unsupervised Object Localization with Representer Point Selection. ICCV 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Song_Unsupervised_Object_Localization_with_Representer_Point_Selection_ICCV_2023_paper.html) [code](https://github.com/yeonghwansong/UOLwRPS)
-- PaintSeg: Painting Pixels for Training-free Segmentation. NeurIPS 2023. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0021c2cb1b9b6a71ac478ea52a93b25a-Abstract-Conference.html) [code](https://github.com/lxa9867/PaintSeg)
-- CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers. CVPR 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Arica_CuVLER_Enhanced_Unsupervised_Object_Discoveries_through_Exhaustive_Self-Supervised_Transformers_CVPR_2024_paper.html) [code](https://github.com/shahaf-arica/CuVLER)
-- The Devil is in the Object Boundary: Towards Annotation-Free Instance Segmentation Using Foundation Models. arXiv 2024. [paper](https://arxiv.org/abs/2404.11957) [code](https://github.com/chengshiest/Zip)
-- PEEKABOO: Hiding Parts of an Image for Unsupervised Object Localization. BMVC 2024. [paper](https://arxiv.org/abs/2407.17628) [code](https://github.com/hasibzunair/peekaboo)
-
 ## Unsupervised Salient Object Detection
 
 - DeepUSPS: Deep Robust Unsupervised Saliency Prediction via Self-Supervision. NeurIPS 2019. [paper](https://papers.nips.cc/paper/8314-deepusps-deep-robust-unsupervised-saliency-prediction-via-self-supervision) [code](https://github.com/donnydonnyullrich/DeepUSPS)
@@ -99,6 +82,5 @@
 - Boundary IoU: Improving Object-Centric Image Segmentation Evaluation. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cheng_Boundary_IoU_Improving_Object-Centric_Image_Segmentation_Evaluation_CVPR_2021_paper.html) [code](https://github.com/bowenc0221/boundary-iou-api)
 - Panoptic Quality: Panoptic Segmentation. CVPR 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.html) [code](https://github.com/cocodataset/panopticapi)
 - Adjusted Rand Index. Journal of Classification 1985. [paper](https://link.springer.com/article/10.1007/BF01908075)
-- Mean Best Overlap. Object Discovery Metric. [docs](https://dinosaur-paper.github.io/)
 
 ## Update Log
